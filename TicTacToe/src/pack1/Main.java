@@ -17,14 +17,6 @@ public class Main {
 			new ImageLoader();
 			new Gewinnroutine();
 		}
-		// Object[] possibilities = {"7777", "7778", "7779"};
-		// port=(String) JOptionPane.showInputDialog(null,
-		// "Port auf dem der Server laufen soll:\n",
-		// "Setup",
-		// JOptionPane.PLAIN_MESSAGE,
-		// null,
-		// null,
-		// "Spieler1sü");
 	}
 
 }
