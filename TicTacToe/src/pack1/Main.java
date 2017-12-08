@@ -16,6 +16,7 @@ public class Main {
 			new Gui();
 			new ImageLoader();
 			new Gewinnroutine();
+			//test
 		}
 	}
 }
